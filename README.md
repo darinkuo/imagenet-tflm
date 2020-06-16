@@ -11,3 +11,4 @@ Run the download.sh script to download the associated tflite model and convert t
 
 To Do List
 * Add third-party libraries to preprocess the ImageNet dataset
+* Add Alexnet to download.sh (after finding tensorflow model)
